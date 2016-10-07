@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function(){ 
 	var cookie = 0;
 	
 	$('.cake').click(function(){
